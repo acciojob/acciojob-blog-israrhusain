@@ -2,8 +2,19 @@
 a{
 	display:block;
 	font-size:20px;
+	
 }
-p{
-	font-size:4px;
-	margin:-1px;
+.sec1{
+	margin-top:40px;
+	
+}
+.item{
+	font-size:20px;
+	margin:auto;
+	text-align:right;
+	
+}
+.section2{
+	margin:24px;
+	margin-left:-2px;
 }
