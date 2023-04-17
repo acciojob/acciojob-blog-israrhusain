@@ -12,7 +12,14 @@ a{
 	font-size:20px;
 	margin:auto;
 	text-align:right;
+	animation:move 5s;
+	animation-duration:infinite;
+	animation-delay:1s;
+}
+
+@keyframes move{
 	
+    left:20px;
 }
 .section2{
 	margin:24px;
